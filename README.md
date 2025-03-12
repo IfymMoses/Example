@@ -1,2 +1,4 @@
 # Example
-justExample
+
+
+This is just a sample file for editing
